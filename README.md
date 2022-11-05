@@ -18,7 +18,7 @@ else:
   print(b, 'yang terbesar')
 ```
 
-![gambar1](foto/a1.png)
+![gambar1](foto/c8.png)
 
 ### LAB2 LATIHAN 2
 ### MEMBUAT PROGRAM UNTUK MENGURUTKAN DATA SECARA BERURUTAN MULAI DARI DATA TERKECIL
@@ -35,7 +35,7 @@ luas.sort()
 print(luas)
 [10,20,30,40,50]
 ```
-![gambar2](foto/a2.png)
+![gambar2](foto/c2.png)
 
 ### LAB3 LATIHAN 1
 ### MEMBUAT PROGRAM DENGAN PERULANGAN BERTINGKAT
@@ -49,10 +49,10 @@ for u in range(0, 10):
     print()
 
 ```    
-![gambar3](foto/a3.png)
+![gambar3](foto/c1.png)
 
 
-### LAB3 LATIHAN 1
+### LAB3 LATIHAN 2
 ### MEMBUAT PROGRAM BILANGAN ACAK YANG LEBIH KECIL 0.5 MENGGUNAKAN KOMBINASI WHILE DAN FOR
 berikut ini adalah sorce code latihan 4
 
@@ -66,7 +66,7 @@ print('selesai')
 
 ```
 
-![gambar4](foto/a4.png)
+![gambar4](foto/c3.png)
 
 ### MODUL PRAKTIKUM 2
 ### MEMBUAT PROGRAM DENGAN MENGINPUT 3 BUAH BILANGAN UNTUK MENENTUKAN BILANGAN TERBESAR MENGGUNAKAN STATEMEN IF
@@ -88,7 +88,7 @@ else :
 
 ```
 
-![gambar5](foto/a5.png)
+![gambar5](foto/c4.png)
 
 
 ### FLOWCHART 
@@ -104,7 +104,7 @@ CETAK "BILANGAN TERBESAR BILANGAN KEDUA".
 CETAK "BILANGAN TERBESAR BILANGAN KETIGA".
 SELESAI.
 
-![gambar6](foto/a8.png)
+![gambar6](foto/c5.png)
 
 
 
@@ -126,7 +126,7 @@ while n !=0:
 print("nilai terbesarnya adalah:", a)
 ```
 
-![gambar7](foto/a6.png)
+![gambar7](foto/c6.png)
 
 ### MODUL PRAKTIKUM 3
 berikut ini adalah source code modul praktikum 3
@@ -142,5 +142,5 @@ for i in laba:
     print('total bulan ke-', u, 'sebesar : ', i)
 print('total laba adalah : ',sum)
 ```
-![gambar8](foto/a7.png)
+![gambar8](foto/c7.png)
 
